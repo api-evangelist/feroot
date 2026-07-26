@@ -1,0 +1,22 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.feroot.com/llms.txt
+# Feroot publishes no public OpenAPI (its API is customer-only, key-authenticated),
+# so no spec-derived standards conformance. These entries assert Feroot's own
+# published security/compliance posture as a company.
+standards:
+- id: soc2-type2
+  conforms: true
+  evidence: 'llms.txt: "SOC 2 Type 2 certified"'
+- id: pci-ssc-associate-member
+  conforms: true
+  evidence: 'llms.txt: "PCI Security Standards Council Associate Member"'
+- id: pci-dss-4.0.1
+  conforms: true
+  evidence: PaymentGuard automates PCI DSS 4.0.1 requirements 6.4.3 and 11.6.1
+- id: oauth2
+  conforms: false
+  evidence: no public OpenAPI securitySchemes; API uses account API keys
+- id: rfc9457-problem-details
+  conforms: false
+  evidence: no public OpenAPI to assert error format

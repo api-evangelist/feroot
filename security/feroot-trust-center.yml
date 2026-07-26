@@ -1,0 +1,20 @@
+generated: '2026-07-19'
+method: searched
+probe: false
+source: https://www.feroot.com/llms.txt
+url: https://trust.feroot.com/
+certifications:
+- SOC 2 Type 2
+- PCI Security Standards Council Associate Member
+compliance_support:
+# Frameworks the Feroot platform helps customers comply with (product capability,
+# not Feroot's own corporate certifications above).
+- PCI DSS 4.0.1
+- HIPAA
+- GDPR
+- CCPA/CPRA
+evidence:
+- source: https://www.feroot.com/llms.txt
+  keywords: [soc 2 type 2 certified, pci security standards council associate member]
+- source: https://trust.feroot.com/
+  kind: trust-center

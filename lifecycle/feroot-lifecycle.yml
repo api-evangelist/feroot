@@ -1,0 +1,18 @@
+generated: '2026-07-19'
+method: searched
+source: https://status.feroot.com/
+# No public OpenAPI or published versioning/deprecation policy located; the API is
+# customer-only (API key created under Settings > Account > Developer). Only the
+# operational status surface is publicly verifiable.
+versioning:
+  scheme: unknown
+  current: null
+  docs: null
+deprecation:
+  policy_url: null
+  sunset_header: null
+sla:
+  url: null
+  uptime_target: null
+status_page: https://status.feroot.com/
+deprecated_operations: []
