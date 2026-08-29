@@ -11,6 +11,17 @@ description: 'Feroot Security is a Toronto-based cybersecurity company providing
   exfiltration). Feroot is SOC 2 Type 2 certified and a PCI Security Standards Council
   Associate Member. Backed by Y Combinator, True Ventures, Haystack, and Stonemill Ventures.'
 url: https://raw.githubusercontent.com/api-evangelist/feroot/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
