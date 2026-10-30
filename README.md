@@ -64,6 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Feroot is a company surfaced as a portfolio company of true-ventures and added to the API Evangelist network as a stub for enrichment. Sector: security. This profile is a lead awaiting the enrichment pipeline.
+Feroot Security is a Toronto-based cybersecurity company providing AI-powered client-side (browser) security and compliance automation for websites and mobile apps. Its platform gives organizations visibility into the third-party JavaScript, trackers, cookies, and data flows running in the browser, and automates compliance with PCI DSS 4.0.1 (requirements 6.4.3 script inventory and 11.6.1 tamper detection), HIPAA, GDPR, CCPA/CPRA, and 50+ global regulations. Products include DXComply (privacy compliance and consent auditing), PaymentGuard (PCI DSS 4.0.1 automation for payment pages), and DXSecure (real-time client-side script security against formjacking, Magecart, and data exfiltration). Feroot is SOC 2 Type 2 certified and a PCI Security Standards Council Associate Member. Backed by Y Combinator, True Ventures, Haystack, and Stonemill Ventures.
 
-Backed by: true-ventures — https://www.feroot.com/
+**Areas:** Company · Security · Client-Side Security · Application Security · Compliance · PCI DSS · Privacy · JavaScript Security
+
+## Feroot on APIs.io
+
+Everything profiled for Feroot is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/feroot/](https://apis.io/providers/feroot/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Feroot Domain Security](https://apis.io/security/feroot/feroot-domain-security/)
+- [Feroot Trust Center](https://apis.io/security/feroot/feroot-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.feroot.com/)
+- [Pricing](https://feroot.com/pricing/)
+- [Blog](https://feroot.com/blog/)
+- [Compliance](https://trust.feroot.com/)
+- [Trust centre](https://trust.feroot.com/)
+- [Terms of service](https://feroot.com/terms-of-use/)
+- [Privacy policy](https://feroot.com/privacy-policy/)
+- [Status](https://status.feroot.com/)
+
+## API Evangelist rating
+
+**Kin Score 17.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 38.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.0** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/feroot/](https://apis.io/providers/feroot/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Feroot: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/feroot/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
